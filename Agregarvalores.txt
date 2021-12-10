@@ -1,0 +1,39 @@
+----------------LLENADO DE TABLAS-----------------------
+
+-----------------USUARIOS------------------------------
+
+INSERT INTO `USUARIOS` VALUES(1,'Franco','franco@gmail.com',''),
+(2,'Roberto','roberto@gmail.com',''),
+(3,'Marcos','marcos@gmail.com',''),
+(4,'Ana','ana@gmail.com',''),
+(5,'Gaston','gaston@gmail.com',''),
+(6,'Romina','romina@gmail.com',''),
+(7,'Fernando','fernando@gmail.com',''),
+(8,'Oscar','oscar@gmail.com',''),
+(9,'Axel','axel@gmail.com',''),
+(10,'Sofia','sofia@gmail.com','');
+
+------------------NOTAS---------------------------------
+
+INSERT INTO `NOTAS` VALUES(0,'titulo1','20100301','20100301','0',0,1),
+(1,'titulo2','20100301','20100301','descripcion2',0,2),
+(2,'titulo3','20100301','20100301','descripcion3',1,3),
+(3,'titulo4','20100301','20100301','descripcion4',0,4),
+(4,'titulo5','20100301','20100301','descripcion5',0,5),
+(5,'titulo6','20100301','20100301','descripcion6',1,6),	
+(6,'titulo7','20100301','20100301','descripcion7',1,7),
+(8,'titulo8','20100301','20100301','descripcion8',1,8),
+(9,'titulo9','20100301','20100301','descripcion9',0,9),
+(10,'titulo10','20100301','20100301','descripcion10',10);
+-----------------CATEGORIAS-----------------------------
+
+INSERT INTO `CATEGORIAS` VALUES(1,'categoria1'),
+(2,'categoria2'),
+(3,'categoria3'),
+(4,'categoria4'),
+(5,'categoria5'),
+(6,'categoria6'),
+(7,'categoria7'),
+(8,'categoria8'),
+(9,'categoria9'),
+(10,'categoria10');
